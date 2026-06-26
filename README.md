@@ -250,9 +250,12 @@ CSE (Computer Science & Engineering) student at **E-JUST**, building production-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khairyKY&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=ED6F5C&icon_color=ED6F5C&text_color=EFE7D2&border_color=161614&hide_border=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairyKY&layout=compact&theme=dark&bg_color=0D0D0D&title_color=ED6F5C&text_color=EFE7D2&border_color=161614&hide_border=false" alt="Top Languages" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=khairyKY&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=ED6F5C&icon_color=ED6F5C&text_color=EFE7D2&border_color=161614&hide_border=false" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairyKY&layout=compact&theme=dark&bg_color=0D0D0D&title_color=ED6F5C&text_color=EFE7D2&border_color=161614&hide_border=false" alt="Top Languages" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
