@@ -54,7 +54,7 @@
   <a href="https://linkedin.com/in/khairyKY"><img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/khairyKY"><img src="https://img.shields.io/badge/GitHub-EFE7D2?style=for-the-badge&logo=github&logoColor=0D0D0D" alt="GitHub"/></a>
   <a href="https://wa.me/201025546572"><img src="https://img.shields.io/badge/WhatsApp-ED6F5C?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="https://portfolio-khairyky.vercel.app"><img src="https://img.shields.io/badge/Portfolio-EFE7D2?style=for-the-badge&logo=vercel&logoColor=0D0D0D" alt="Portfolio"/></a>
+  <a href="https://khairy-kai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-EFE7D2?style=for-the-badge&logo=vercel&logoColor=0D0D0D" alt="Portfolio"/></a>
 </div>
 
 ---
