@@ -59,22 +59,7 @@
 
 ---
 
-<details open>
-<summary><strong>⚒️ Languages · Frameworks · Tools</strong></summary>
-
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,php,cpp,swift,dart,arduino&theme=dark&perline=8" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,laravel,django,fastapi,tailwind,express,nodejs&theme=dark&perline=7" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,mysql,postgres,sqlite,docker,git,cloudflare&theme=dark&perline=9" />
-</div>
-
-</details>
-
----
+<!-- skillicons.dev removed per user request -->
 
 <details open>
 <summary><strong>💼 Experience</strong></summary>
