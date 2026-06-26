@@ -1,9 +1,5 @@
 <div align="center">
 
-<span style="font-family:'Mochiy Pop P One',sans-serif;font-weight:400;color:#BC002D;font-size:1.3em;letter-spacing:0.04em;">E-JUST</span>
-
-# Khairy Shaheen
-
 **Frontend-focused SWE who ships full-stack — I engineer with AI as my copilot, not my replacement.**
 
 CSE (Computer Science & Engineering) student at **E-JUST**, building production-grade software across the stack — from Django monoliths to SwiftUI gaze-controlled interfaces, Laravel e-commerce to PyTorch classification models. I bridge engineering and operations, shipping code that runs businesses.
