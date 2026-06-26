@@ -59,8 +59,6 @@
 
 ---
 
-<!-- skillicons.dev removed per user request -->
-
 <details open>
 <summary><strong>💼 Experience</strong></summary>
 
