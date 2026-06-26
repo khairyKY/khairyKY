@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/khairyKY/khairyKY/main/profile.jpg" width="120" height="120" style="border-radius:50%;border:2px solid rgba(239,231,210,0.12);" alt="Khairy Shaheen" />
-
 <span style="font-family:'Mochiy Pop P One',sans-serif;font-weight:400;color:#BC002D;font-size:1.3em;letter-spacing:0.04em;">E-JUST</span>
 
 # Khairy Shaheen
