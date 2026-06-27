@@ -10,22 +10,11 @@
     <circle cx="115" cy="14" r="1" fill="#ED6F5C" opacity="0.7"/>
   </svg>
 
-  <br/>
-
-  <!-- E-JUST badge -->
-  <span style="font-family:'Mochiy Pop P One',sans-serif;font-weight:400;color:#BC002D;font-size:1.5em;letter-spacing:0.05em;">E-JUST</span>
-
-  <br/>
 
   <h1 style="font-family:system-ui;font-weight:800;letter-spacing:-0.02em;color:#EFE7D2;margin:8px 0 4px;">Khairy Shaheen</h1>
   <p style="font-family:system-ui;font-size:15px;color:#C8C2B4;max-width:480px;line-height:1.5;margin:0 auto;">
     Frontend-focused SWE who ships full-stack — I engineer with <em style="color:#ED6F5C;font-style:normal;">AI as my copilot</em>, not my replacement.
   </p>
-
-  <br/>
-
-  <!-- Typing SVG — funny icebreakers -->
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter+Tight&weight=700&size=20&duration=4000&pause=800&color=ED6F5C&center=true&vCenter=true&width=700&height=70&lines=debugging+my+sleep+schedule+since+2019;74%25+of+my+code+is+Stack+Overflow+%28the+other+26%25+is+AI%29;Powered+by+coffee+and+compiler+errors;writing+TypeScript+so+strict+it+judges+my+life+choices;Laravel+artisan+who+also+speaks+SwiftUI;deploying+on+Friday+is+my+love+language;I+fix+bugs+before+they+exist+%28somewhere+in+the+multiverse%29" alt="Typing SVG" />
 
   <br/>
 
@@ -54,6 +43,10 @@
 </div>
 
 ---
+  <!-- Typing SVG — funny icebreakers -->
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter+Tight&weight=700&size=20&duration=4000&pause=800&color=ED6F5C&center=true&vCenter=true&width=700&height=70&lines=debugging+my+sleep+schedule+since+2019;74%25+of+my+code+is+Stack+Overflow+%28the+other+26%25+is+AI%29;Powered+by+coffee+and+compiler+errors;writing+TypeScript+so+strict+it+judges+my+life+choices;Laravel+artisan+who+also+speaks+SwiftUI;deploying+on+Friday+is+my+love+language;I+fix+bugs+before+they+exist+%28somewhere+in+the+multiverse%29" alt="Typing SVG" />
+
+  <br/>
 
 ## 📌 Featured Projects
 
