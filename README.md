@@ -93,16 +93,9 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairyKY&theme=dark&background=0D0D0D&ring=ED6F5C&fire=ED6F5C&currStreakNum=EFE7D2&sideNums=EFE7D2&currStreakLabel=ED6F5C&sideLabels=ED6F5C&dates=7A7568&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=khairyKY&theme=dark_luminous&column=3&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairyKY&theme=dark&background=0D0D0D&ring=ED6F5C&fire=ED6F5C&currStreakNum=EFE7D2&sideNums=EFE7D2&currStreakLabel=ED6F5C&sideLabels=ED6F5C&dates=7A7568&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -133,12 +126,7 @@
     "I engineer with AI as my copilot, not my replacement."
   </span>
   <br/><br/>
-  <span style="color:#7A7568;font-size:0.75em;letter-spacing:0.04em;">
-    <span style="color:#ED6F5C;">●</span> Coral &nbsp; <span style="color:#00BFFF;">●</span> Cyan &nbsp; <span style="color:#EFE7D2;">✦</span> Cosmic
-    <br/>
-    Built with Astro · Dual-theme · Open Design
-  </span>
-  <br/><br/>
+  <br/>
   <!-- Starfield footer -->
   <svg width="120" height="20" viewBox="0 0 120 20">
     <circle cx="15" cy="6" r="1.5" fill="#ED6F5C" opacity="0.6"/>
